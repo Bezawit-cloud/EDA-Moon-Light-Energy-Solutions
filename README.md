@@ -54,7 +54,7 @@ Git Setup
 Follow these steps to set up Git and manage your repository:
 
 1. Clone the Repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Bezawit-cloud/EDA-Moon-Light-Energy-Solutions
 cd your-repo
 
 3. Check Current Branch
