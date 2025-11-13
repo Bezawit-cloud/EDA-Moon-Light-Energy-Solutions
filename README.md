@@ -48,5 +48,85 @@ Benin and Togo are top candidates for solar installation based on average irradi
 
 ## Conclusion
 
-This analysis provides actionable insights for MoonLight Energy Solutions to optimize solar investments, align with sustainability goals, and strategically expand operations in West Africa.
+This analysis provides actionable insights for MoonLight Energy Solutions to optimize solar investments, align with sustainability goals, and strategically expand operations 
+Git Setup
+
+Follow these steps to set up Git and manage your repository:
+
+1. Clone the Repository
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+
+3. Check Current Branch
+git branch
+
+
+This shows the branch you’re currently on (usually main).
+
+3. Create a New Branch for Your Work
+git checkout -b feature-branch-name
+
+
+Replace feature-branch-name with a descriptive name for your task.
+
+4. Make Changes
+
+Edit files, add code, or update documentation.
+
+Check status to see changed files:
+
+git status
+
+5. Stage Your Changes
+git add .
+
+
+Stages all modified files. Or stage specific files with git add filename.
+
+6. Commit Your Changes
+git commit -m "Add descriptive message about your changes"
+
+
+Use a clear message describing what the commit does.
+
+7. Push Your Branch to GitHub
+git push origin feature-branch-name
+
+8. Open a Pull Request (PR)
+
+Go to your repository on GitHub.
+
+You’ll see a notification to open a PR for your pushed branch.
+
+Click Compare & pull request.
+
+Add a title and description for your PR.
+
+Click Create pull request.
+
+9. Merge Your PR
+
+After review, click Merge pull request to integrate your changes into main.
+
+Pull the latest main branch locally:
+
+git checkout main
+git pull origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in West Africa.
 
